@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, you found me 😄. Welcome, I'm Chigozie <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b-1f3fe.gif" width="45" align=center /> 
 
-![Profile Visits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ChigozieCO/profile-visit-counter/main/visit-count.json&color=9c27b0)
+![Profile Visits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ChigozieCO/profile-visit-counter/main/visit-count.json&color=9c27b0&labelColor=ff69b4)
 
 
 ### Cloud Engineer | Technical Blogger
