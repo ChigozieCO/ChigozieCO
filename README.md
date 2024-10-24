@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--
 ![Profile Visits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ChigozieCO/profile-visit-counter/main/visit-count.json&color=ff69b4&labelColor=9c27b0)
 -->
-### Cloud Engineer | Technical Blogger
+### Cloud / DevOps Engineer | Technical Blogger
 
 I'm passionate about leveraging cloud technologies to build scalable and efficient solutions. My journey in the world of tech started with a fascination for problem-solving and a drive to make a difference through innovation. With hands-on experience and a passion for innovation, I aim to drive impactful changes in cloud environments. I regulary write technical articles on [dev.to](https://dev.to/chigozieco).
 
