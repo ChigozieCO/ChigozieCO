@@ -52,6 +52,8 @@ I'm passionate about leveraging cloud technologies to build scalable and efficie
 
 Feel free to reach out for collaborations, discussions, or if you just want to chat about cloud tech! ☁️✨
 
+If my work helps you, consider supporting me: <a href="https://buymeacoffee.com/chigozieco" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=48 ></a>
+ 
 ----
 &emsp; &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChigozieCO&hide=stars,contribs&show_icons=true&hide_border=true&show=prs_merged&theme=vue-dark" alt="Chigozie's GitHub stats" /> &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChigozieCO&langs_count=8&layout=compact&hide_border=true&theme=vue-dark" alt="Chigozie's GitHub stats" /> 
 
